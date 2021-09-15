@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F103C6T6A
+F https://www.stmicroelectronics.com.cn/resource/en/datasheet/stm32f103c6.pdf
+$ENDCMP
+#
+#End Doc Library
