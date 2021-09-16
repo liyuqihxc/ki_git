@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AMS1117
+D 1A Low Dropout Linear Voltage Regulator
+$ENDCMP
+#
+$CMP EUP3476
+D Step-Down Converter
+$ENDCMP
+#
+$CMP LM2596S-3.3_NOPB
+D Step-down (buck) switching regulator
+$ENDCMP
+#
 #End Doc Library
