@@ -6,6 +6,7 @@ $ENDCMP
 #
 $CMP EUP3476
 D Step-Down Converter
+F https://atta.szlcsc.com/upload/public/pdf/source/20171218/C158090_15135654365201185677.pdf
 $ENDCMP
 #
 $CMP LM2596S-3.3_NOPB
